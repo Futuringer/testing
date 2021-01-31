@@ -1,6 +1,7 @@
 .body {
 }
-* {
+* { 
+  background-color: hotpink;
   box-sizing: border-box;
 }
 .page {
